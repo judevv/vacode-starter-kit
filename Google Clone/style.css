@@ -1,0 +1,38 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 14px;
+    margin: 15px 20px 15px 20px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200&display=swap');
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.gginst a {
+    margin-right: 15px;
+}
+
+.ggpro {
+    display: flex;
+    align-items: center;
+}
+
+.ggpro a {
+    margin-left: 15px;
+}
+
+.img-one {
+    width: 17px;
+    height: 17px;
+    margin-left: 10px;
+}
+
+.img-two {
+    width: 30px;
+    height: 30px;
+    margin-left: 5px;
+}
